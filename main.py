@@ -8,7 +8,7 @@
 #result= f'Word {part2} has {len(part2)} letters'
 #print(result)
 
-part1= input('Words')
+part1= input('Word')
 part2= f"Word {part1} has {len(part1)} letters"
 print(part2)
 
